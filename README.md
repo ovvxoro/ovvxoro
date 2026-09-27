@@ -1,16 +1,15 @@
-## Hi there 👋
+# ovvxoro
 
-<!--
-**ovvxoro/ovvxoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# / .NET 개발자
 
-Here are some ideas to get you started:
+**기술 스택**  
+C# · .NET · ASP.NET · WPF · SQL Server · Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**개발 환경**  
+Rider · Visual Studio · SSMS · DBeaver · Git
+
+**AI / 개발 워크플로우**  
+OpenCode — GPT · OpenCode Go  
+Jev — 분류 · 라우팅 · 평가 · 랭킹 · 검증  
+Rider MCP — 프로젝트 문맥 연동  
+Proofmark — Beta
